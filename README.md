@@ -9,7 +9,7 @@
  
  C:\Users\Username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
  
- Replace ####Username with your user name and you are good to go
+ Replace Username with your user name and you are good to go
   
  Tested on Windows 10
  
